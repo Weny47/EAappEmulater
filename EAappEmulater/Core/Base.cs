@@ -653,10 +653,10 @@ public static class Base
             Args2 = string.Empty,
             IsInstalled = false,
             IsEAAC = false,
-            AppName = "bflabs.exe",
+            AppName = "bf6.exe",
             ContentId = "1180461",
-            Regedit = "SOFTWARE\\EA Games\\Battlefield Labs",
-            Regedit2 = "SOFTWARE\\WOW6432Node\\EA Games\\Battlefield Labs",
+            Regedit = "SOFTWARE\\EA Games\\Battlefield 6",
+            Regedit2 = "SOFTWARE\\WOW6432Node\\EA Games\\Battlefield 6",
             Locales = new() {"en_US"},
             IsOldLSX = false
         };
